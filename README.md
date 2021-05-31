@@ -1,6 +1,6 @@
 # All Swap Exchange
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c6ef/deploy-status)](https://app.netlify.com/sites/swap-master/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/38d87610-03b6-4937-8e74-7fb64077ca5f/deploy-status)](https://app.netlify.com/sites/bsc-allswap/deploys)
 
 [AllSwap](https://allswap.xyz/) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [Binance Smart Chain](https://www.binance.org/en/smartChain) (BSC). It is fast, cheap, and allows anyone to participate.
 
