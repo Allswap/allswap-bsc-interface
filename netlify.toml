@@ -1,6 +1,6 @@
 [build]
   [context.deploy-preview]
-  ...
+  
   command = "CI= yarn run build"
-...
+
     ignore = "if [[ $HEAD == *feature/* ]]; then exit 1; else exit 0; fi"
