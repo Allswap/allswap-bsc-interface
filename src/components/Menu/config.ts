@@ -122,7 +122,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Github',
-        href: 'https://github.com/pancakeswap',
+        href: 'https://github.com/Allswap',
       },
       {
         label: 'Docs',
